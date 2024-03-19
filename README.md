@@ -17,3 +17,6 @@ The applications of this model are wide-ranging and impactful:
 This project represents a significant milestone in leveraging data-driven approaches for societal benefit. As we continue to explore the boundless potential of Deep Learning technologies, let us remain committed to harnessing innovation for the greater good and building a more resilient future for all.
 
 Join me in championing the convergence of technology and sustainability to tackle the challenges of tomorrow head-on. Together, we can pave the way towards a safer, more resilient world. #DeepLearning #DisasterResponse #SustainableDevelopment #UrbanPlanning 🌐🛠️
+
+![Alt Text][https://github.com/SaishSaw/Coastal-Resilience/blob/main/val_batch0_labels(1).jpg]
+
