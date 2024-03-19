@@ -18,5 +18,5 @@ This project represents a significant milestone in leveraging data-driven approa
 
 Join me in championing the convergence of technology and sustainability to tackle the challenges of tomorrow head-on. Together, we can pave the way towards a safer, more resilient world. #DeepLearning #DisasterResponse #SustainableDevelopment #UrbanPlanning 🌐🛠️
 
-![Alt Text][https://github.com/SaishSaw/Coastal-Resilience/blob/main/val_batch0_labels(1).jpg]
+![Alt Text](https://github.com/SaishSaw/Coastal-Resilience/blob/main/val_batch0_labels(1).jpg)
 
